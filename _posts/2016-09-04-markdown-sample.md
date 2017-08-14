@@ -4,6 +4,21 @@ title:  "Markdown sample"
 date:   2016-09-04
 ---
 
+# Hello World.
+## My Favorite Foods
+
+* Sushi
+* Pizza
+* Nutella
+
+[Link to Google](http://google.com)
+<a href= "https:google.com" target= "blank"> This takes you to a new page </a>
+
+# Get Shwifty
+![Link](https://media.giphy.com/media/9zXWAIcr6jycE/giphy.gif)
+
+# Stop Motion is Fun
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6sccl8rikg" frameborder="0" allowfullscreen></iframe>
 ### Markdown test document
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
